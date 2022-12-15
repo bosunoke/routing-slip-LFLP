@@ -1,0 +1,11 @@
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\bin\Debug\routing slip LFLP.exe.config
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\bin\Debug\routing slip LFLP.exe
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\bin\Debug\routing slip LFLP.pdb
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.csproj.AssemblyReference.cache
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.csproj.SuggestedBindingRedirects.cache
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing_slip_LFLP.Form1.resources
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing_slip_LFLP.Properties.Resources.resources
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.csproj.GenerateResource.cache
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.csproj.CoreCompileInputs.cache
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.exe
+C:\Users\adminit.LFLP\source\repos\routing slip LFLP\routing slip LFLP\obj\Debug\routing slip LFLP.pdb
